@@ -1,8 +1,8 @@
-<h3 align="center">A passionate developer from Poland</h3>
+<h4 align="center">A passionate developer from Poland</h4>
 
-<h3 align="center"> - 🔭 I’m currently working on **eturn** </h3>
+<h3 align="center"> - 🔭 I’m currently working on eturn </h3>
 
-<h3 align="center"> - 🌱 I’m currently learning **typescript** </h3>
+<h3 align="center"> - 🌱 I’m currently learning typescript </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
