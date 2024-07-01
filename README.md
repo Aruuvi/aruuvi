@@ -1,4 +1,4 @@
-<h4 align="center">A passionate developer from Poland</h4>
+<h2 align="center">A passionate developer from Poland</h2>
 
 <h3 align="center"> - 🔭 I’m currently working on eturn </h3>
 
