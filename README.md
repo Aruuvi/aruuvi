@@ -1,6 +1,6 @@
 <h2 align="center">A passionate developer from Poland</h2>
 
-<h3 align="center"> - 🔭 I’m currently working on eturn </h3>
+<h3 align="center"> - 🔭 I’m currently working on Meteor </h3>
 
 <h3 align="center"> - 🌱 I’m currently learning typescript </h3>
 
